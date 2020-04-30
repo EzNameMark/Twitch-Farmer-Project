@@ -1,0 +1,9 @@
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\bin\Debug\Twitch-Farmer-Project.exe.config
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\bin\Debug\Twitch-Farmer-Project.exe
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\bin\Debug\Twitch-Farmer-Project.pdb
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch-Farmer-Project.csprojAssemblyReference.cache
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch_Farmer_Project.Form1.resources
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch_Farmer_Project.Properties.Resources.resources
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch-Farmer-Project.csproj.GenerateResource.cache
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch-Farmer-Project.exe
+E:\Filok,D,D,V,P,M\Documents\GitHub\Twitch-Farmer-Project\Twitch-Farmer-Project\obj\Debug\Twitch-Farmer-Project.pdb

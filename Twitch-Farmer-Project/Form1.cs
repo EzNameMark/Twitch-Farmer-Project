@@ -21,5 +21,20 @@ namespace Twitch_Farmer_Project
         {
 
         }
+
+        private void Start_Button_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Stop_Button_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Exit_Button_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

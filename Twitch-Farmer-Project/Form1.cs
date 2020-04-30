@@ -36,5 +36,20 @@ namespace Twitch_Farmer_Project
         {
 
         }
+
+        private void Green_Box_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Red_Box_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void none_box_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
